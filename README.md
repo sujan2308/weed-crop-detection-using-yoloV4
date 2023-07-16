@@ -5,3 +5,7 @@ The notebok is uploaded in the repository, download it and upload it to your col
 
 The dataset and the program link is given, just download the zip file and upload it to your Google drive and unzip the file.
 The name of the folder should be Yolov4.
+The link of datasets and the required files.
+https://drive.google.com/file/d/1i9DRprbO06ZkmcWZVylD2D0k0bbJWRVH/view?usp=sharing
+
+If there is any doubts or errors please try to contact me on kumar7sujan7@gmail.com
